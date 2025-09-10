@@ -1,0 +1,10 @@
+tensorflow
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+gradio
+opencv-python
+fastapi
+uvicorn
