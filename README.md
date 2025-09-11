@@ -1,6 +1,6 @@
 # Arabic Sign Language Recognition (ArSL)
 
-Recognizes 32 Arabic alphabet signs using a CNN (97.35% accuracy) with a Gradio interface.
+This project presents a deep learning solution for Arabic Sign Language (ArSL) recognition using Convolutional Neural Networks (CNNs) . The system efficiently predicts ArSL letters from images, demonstrating the power of CNNs in accessibility-focused applications with Gradio interface. 
 
 ## Dataset
 
@@ -38,4 +38,4 @@ python app.py
 
 ## Demo
 
-- Live at: \[Hugging Face Space Link\]
+- Live at: \[(https://huggingface.co/spaces/JoeMax3/Sign_Language_Detection)\]
