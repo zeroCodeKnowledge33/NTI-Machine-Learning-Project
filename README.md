@@ -38,5 +38,5 @@ python app.py
 
 ## Demo
 
-- Live at: \(https://huggingface.co/spaces/JoeMax3/Sign_Language_Detection)\
-- Gradio: \(https://1710776ce7be907455.gradio.live)\
+- Live at: https://huggingface.co/spaces/JoeMax3/Sign_Language_Detection
+- Gradio: https://1710776ce7be907455.gradio.live
